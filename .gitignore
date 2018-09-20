@@ -1,0 +1,5 @@
+﻿# Npm logs
+npm-debug*
+.history
+.idea
+node_modules/
